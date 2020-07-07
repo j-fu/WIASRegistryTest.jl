@@ -1,0 +1,4 @@
+name = "WIASRegistryTest"
+uuid = "c2baa7de-46fc-46aa-8bc7-b446de048749"
+authors = ["Juergen Fuhrmann <juergen.fuhrmann@wias-berlin.de>"]
+version = "0.0.1"
